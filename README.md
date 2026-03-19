@@ -187,13 +187,13 @@ Dialogflow chatbot for symptom analysis and illness identification
 
 ## 📚 Research & Publications
 
-📄 **[Weed and Water Stress Detection using Drone Video](https://www.atlantis-press.com/proceedings/icosia-22)** 🏆 *Best Paper – ICoSIA 2022*
+📄 **[Weed and Water Stress Detection using Drone Video](https://www.atlantis-press.com/proceedings/icosia-22/125987156)** 🏆 *Best Paper – ICoSIA 2022*
 
 📄 **[Machine Learning in Agriculture of Caribbean SIDS](https://online.pubhtml5.com/vilk/tcus/#p=1)** – *Celebrating 100 Years of Agricultural Research*
 
-📄 **[Open Dataset of Labeled Tropical Crops](https://www.atlantis-press.com/proceedings/icosia-22)** – *ICoSIA 2022*
+📄 **[Open Dataset of Labeled Tropical Crops](https://www.atlantis-press.com/proceedings/icosia-22/125987190)** – *ICoSIA 2022*
 
-📄 **[Bilingual NLP Models for the Caribbean](https://lab.tt/wp-content/uploads/2023/12/Bilingual_Dialect-Classification-using_NLP.pdf)** – *ICACECS 2023*
+📄 **[Bilingual NLP Models for the Caribbean](https://books.google.ca/books?hl=en&lr=&id=_JrqEAAAQBAJ&oi=fnd&pg=PA45&ots=E_YeNKN_xe&sig=C-Vi0zAg0nB3Di7CGVxX5GVA70o&redir_esc=y#v=onepage&q&f=false)** – *ICACECS 2023*
 
 ---
 
